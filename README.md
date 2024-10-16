@@ -1,5 +1,4 @@
-# Descrição do Hardware e Software Utilizados
-
+## II Desafio em Otimizacao com Metaheuristica PUC GO
 ## Sumário
 - [Descrição do Hardware e Software Utilizados](#descrição-do-hardware-e-software-utilizados)
   - [Software](#software)
