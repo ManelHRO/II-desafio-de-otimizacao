@@ -24,7 +24,7 @@
 - *Memória RAM:* 8 GB
 - *SSD:* 256 GB
 
-## Instâncias Utilizadas
+# Instâncias Utilizadas
 As principais instâncias utilizadas foram:
 - *Scholl (BPP - CSP)*
 - *Schwerin (BPP - CSP)*
