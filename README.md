@@ -1,5 +1,6 @@
 ## II Desafio em Otimizacao com Metaheuristica PUC GO
 ## Sumário
+- [Equipe](#equipe)
 - [Descrição do Hardware e Software Utilizados](#descrição-do-hardware-e-software-utilizados)
   - [Software](#software)
   - [Hardware](#hardware)
@@ -13,6 +14,10 @@
   - [Parâmetros e Configurações](#parâmetros-e-configurações)
 - [Resultados](#resultados)
 - [Discussões e Análise Crítica](#discussões-e-análise-crítica)
+
+# Equipe
+[![ManelHRO](https://github.com/ManelHRO.png?size=100)](https://github.com/ManelHRO)
+[![LuisXIV01](https://github.com/LuisXIV01.png?size=100)](https://github.com/LuisXIV01)
 
 # Descrição do Hardware e Software Utilizados
 ## Software
