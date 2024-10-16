@@ -14,6 +14,7 @@
 - [Resultados](#resultados)
 - [Discussões e Análise Crítica](#discussões-e-análise-crítica)
 
+# Descrição do Hardware e Software Utilizados
 ## Software
 - *Visual Studio Code* foi utilizado.
 - O algoritmo foi testado em um sistema operacional *Windows*.
